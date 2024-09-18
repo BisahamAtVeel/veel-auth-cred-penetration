@@ -29,3 +29,5 @@ async function getToken() {
 
   console.log(accessKey, refreshKey, "cookie-keys");
 }
+
+getToken()
